@@ -313,7 +313,7 @@ Company Number:
 
 Founded:
 
-2020 (Türkiye)
+2020
 
 Relocated:
 
